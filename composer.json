@@ -2,7 +2,7 @@
   "name": "boraso/php-symfony-basecommand-pack",
   "autoload": {
     "psr-4": {
-      "Boraso\\BaseCommand\\": "TurboLabIt/BaseCommand/src"
+      "Boraso\\BaseCommand\\": "TurboLabIt/BaseCommand/src/"
     }
   },
   "require": {
